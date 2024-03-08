@@ -1,4 +1,4 @@
-## Olá! eu sou a Lucas Silva
+## Olá! eu sou o Lucas Silva
 
 <div>
   <a href="https://github.com/costaProg">
